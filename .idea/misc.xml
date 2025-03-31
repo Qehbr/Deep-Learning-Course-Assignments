@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="Python 3.12 (ReverseTuring-main)" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Deep-Learning-Course" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="DRL" project-jdk-type="Python SDK" />
 </project>

@@ -11,7 +11,9 @@ def softmax(Z):
     """
     Applies softmax activation.
     """
-    A = np.exp(Z) / np.sum(np.exp(Z), axis=0, keepdims=True)
+    Z_shifted = Z - np.max(Z, axis=0, keepdims=True)  # Improve numerical stability
+    exp_Z = np.exp(Z_shifted)
+    A = exp_Z / np.sum(exp_Z, axis=0, keepdims=True)
     return A, {'Z': Z}
 
 def relu_backward(dA, activation_cache):

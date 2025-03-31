@@ -5,7 +5,7 @@ def compute_cost(AL, Y, parameters=None, lambd=0.0):
     Computes the cross-entropy cost, with optional L2 regularization.
     """
     m = Y.shape[1]
-    cost = -np.sum(Y * np.log(AL)) / m
+    cost = -np.sum(Y * np.log(AL+1e-8)) / m
 
     if lambd != 0 and parameters is not None:
         L2_cost = 0

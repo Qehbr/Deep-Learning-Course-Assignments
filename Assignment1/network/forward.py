@@ -13,11 +13,13 @@ def linear_forward(A, W, b):
     return Z, cache
 
 
-def linear_activation_forward(A_prev, W, b, activation):
+def linear_activation_forward(A_prev, W, b, activation, use_batchnorm=False):
     """
     Forward propagation for the LINEAR->ACTIVATION layer.
     """
     Z, linear_cache = linear_forward(A_prev, W, b)
+    if use_batchnorm:
+        Z = apply_batchnorm(Z)
     if activation == "relu":
         A, activation_cache = relu(Z)
     elif activation == "softmax":
@@ -39,11 +41,8 @@ def l_model_forward(X, parameters, use_batchnorm=False):
 
     for l in range(1, L):
         A_prev = A
-        A, cache = linear_activation_forward(
-            A_prev, parameters[f"W{l}"], parameters[f"b{l}"], activation="relu"
-        )
-        if use_batchnorm:
-            A = apply_batchnorm(A)
+        A, cache = linear_activation_forward(A_prev, parameters[f"W{l}"], parameters[f"b{l}"], activation="relu",
+                                             use_batchnorm=use_batchnorm)
         caches.append(cache)
 
     AL, cache = linear_activation_forward(
