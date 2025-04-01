@@ -11,7 +11,7 @@ def softmax(Z):
     """
     Applies softmax activation.
     """
-    Z_shifted = Z - np.max(Z, axis=0, keepdims=True)  # Improve numerical stability
+    Z_shifted = Z - np.max(Z, axis=0, keepdims=True)
     exp_Z = np.exp(Z_shifted)
     A = exp_Z / np.sum(exp_Z, axis=0, keepdims=True)
     return A, {'Z': Z}

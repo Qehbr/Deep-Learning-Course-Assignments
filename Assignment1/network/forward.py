@@ -18,14 +18,16 @@ def linear_activation_forward(A_prev, W, b, activation, use_batchnorm=False):
     Forward propagation for the LINEAR->ACTIVATION layer.
     """
     Z, linear_cache = linear_forward(A_prev, W, b)
-    if use_batchnorm:
-        Z = apply_batchnorm(Z)
+
     if activation == "relu":
         A, activation_cache = relu(Z)
     elif activation == "softmax":
         A, activation_cache = softmax(Z)
     else:
         raise ValueError(f"Unsupported activation function: '{activation}'. Expected 'relu' or 'softmax'.")
+
+    if use_batchnorm:
+        A = apply_batchnorm(A)
 
     cache = linear_cache | activation_cache
     return A, cache

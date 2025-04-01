@@ -33,3 +33,20 @@ def plot_costs(costs):
     plt.legend()
     plt.grid(True)
     plt.show()
+
+
+def plot_weights_distribution(parameters):
+    """
+    Plots histograms for the weight distributions of each layer.
+    """
+    L = len(parameters) // 2  # number of layers
+    for l in range(1, L + 1):
+        W = parameters[f"W{l}"]
+
+        plt.figure()  # ensure each histogram is on its own figure
+        plt.hist(W.flatten(), bins=50)  # e.g., 50 bins
+        plt.title(f"Distribution of W{l}")
+        plt.xlabel("Weight value")
+        plt.ylabel("Frequency")
+        plt.grid(True)
+        plt.show()

@@ -14,7 +14,7 @@ def initialize_parameters(layer_dims):
     parameters = {}
 
     for l in range(1, len(layer_dims)):
-        parameters[f"W{l}"] = np.random.randn(layer_dims[l], layer_dims[l - 1])
+        parameters[f"W{l}"] = np.random.randn(layer_dims[l], layer_dims[l - 1])*0.1
         parameters[f"b{l}"] = np.zeros((layer_dims[l], 1))
 
     return parameters
