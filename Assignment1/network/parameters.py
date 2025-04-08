@@ -1,20 +1,24 @@
 import numpy as np
 
+
 def initialize_parameters(layer_dims):
     """
-    Initializes weights and biases for each layer in the network.
+    Initializes weights and biases for each layer in a neural network.
 
-    Args:
-        layer_dims (list): Dimensions of each layer in the network.
+    Parameters
+    ----------
+    layer_dims : list of int
+        An array of the dimensions of each layer in the network (layer 0 is the size of the flattened input, layer L is the output softmax)
 
-    Returns:
-        dict: Dictionary containing W1...WL and b1...bL.
+    Returns
+    -------
+    dict
+        A dictionary containing the initialized W and b parameters of each layer (W1…WL, b1…bL).
     """
-
     parameters = {}
 
     for l in range(1, len(layer_dims)):
-        parameters[f"W{l}"] = np.random.randn(layer_dims[l], layer_dims[l - 1])*0.1
+        parameters[f"W{l}"] = np.random.randn(layer_dims[l], layer_dims[l - 1]) * 0.1
         parameters[f"b{l}"] = np.zeros((layer_dims[l], 1))
 
     return parameters

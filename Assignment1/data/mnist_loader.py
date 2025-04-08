@@ -2,6 +2,23 @@ import numpy as np
 from torchvision import datasets, transforms
 
 def load_mnist():
+    """
+    Loads and preprocesses the MNIST dataset.
+
+    The function downloads the MNIST training and test datasets, normalizes the pixel values,
+    reshapes the data for use in a neural network, and converts the labels to one-hot encoding.
+
+    Returns
+    -------
+    X_train : ndarray
+        Training data of shape (784, number_of_training_examples), normalized to [0, 1]
+    y_train_oh : ndarray
+        One-hot encoded training labels of shape (10, number_of_training_examples)
+    X_test : ndarray
+        Test data of shape (784, number_of_test_examples), normalized to [0, 1]
+    y_test_oh : ndarray
+        One-hot encoded test labels of shape (10, number_of_test_examples)
+    """
     transform = transforms.Compose([
         transforms.ToTensor()
     ])

@@ -4,7 +4,25 @@ from .activations import relu_backward, softmax_backward
 
 def linear_backward(dZ, cache, lambd=0.0):
     """
-    Linear part of backward propagation for a single layer.
+    Implements the linear part of the backward propagation process for a single layer.
+
+    Parameters
+    ----------
+    dZ : ndarray
+        The gradient of the cost with respect to the linear output of the current layer (layer l)
+    cache : dict
+        A dictionary containing A_prev, W, and b from the forward propagation of the current layer
+    lambd : float, optional
+        Regularization parameter (default is 0.0)
+
+    Returns
+    -------
+    dA_prev : ndarray
+        Gradient of the cost with respect to the activation (of the previous layer l-1), same shape as A_prev
+    dW : ndarray
+        Gradient of the cost with respect to W (current layer l), same shape as W
+    db : ndarray
+        Gradient of the cost with respect to b (current layer l), same shape as b
     """
     A_prev, W, b = cache['A'], cache['W'], cache['b']
     m = A_prev.shape[1]
@@ -19,7 +37,27 @@ def linear_backward(dZ, cache, lambd=0.0):
 
 def linear_activation_backward(dA, cache, activation, lambd=0.0):
     """
-    Backward propagation for LINEAR->ACTIVATION layer.
+    Implements the backward propagation for the LINEAR->ACTIVATION layer.
+
+    Parameters
+    ----------
+    dA : ndarray
+        Post-activation gradient of the current layer
+    cache : dict
+        Dictionary containing both the linear cache and the activation cache
+    activation : str
+        The activation function used in this layer ("relu" or "softmax")
+    lambd : float, optional
+        Regularization parameter (default is 0.0)
+
+    Returns
+    -------
+    dA_prev : ndarray
+        Gradient of the cost with respect to the activation (of the previous layer l-1), same shape as A_prev
+    dW : ndarray
+        Gradient of the cost with respect to W (current layer l), same shape as W
+    db : ndarray
+        Gradient of the cost with respect to b (current layer l), same shape as b
     """
     linear_cache = {'A': cache['A'], 'W': cache['W'], 'b': cache['b']}
     activation_cache = {'Z': cache['Z']}
@@ -37,7 +75,28 @@ def linear_activation_backward(dA, cache, activation, lambd=0.0):
 
 def l_model_backward(AL, Y, caches, lambd=0.0):
     """
-    Backward propagation for the entire network.
+    Implements the backward propagation process for the entire network.
+
+    Parameters
+    ----------
+    AL : ndarray
+        The probabilities vector, output of the forward propagation (L_model_forward)
+    Y : ndarray
+        The true labels vector (the "ground truth" - true classifications)
+    caches : list of dict
+        List of caches containing for each layer:
+        a) the linear cache;
+        b) the activation cache
+    lambd : float, optional
+        Regularization parameter (default is 0.0)
+
+    Returns
+    -------
+    grads : dict
+        Dictionary with the gradients
+        grads["dA" + str(l)] -- Gradient of the cost with respect to the activation of layer l
+        grads["dW" + str(l)] -- Gradient of the cost with respect to W of layer l
+        grads["db" + str(l)] -- Gradient of the cost with respect to b of layer l
     """
     grads = {}
     L = len(caches)
