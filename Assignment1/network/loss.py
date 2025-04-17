@@ -35,9 +35,8 @@ def compute_cost(AL, Y, parameters=None, lambd=0.0):
     cost = -np.sum(Y * np.log(AL + 1e-8)) / m
 
     if lambd != 0 and parameters is not None:
-        L2_cost = 0
-        for l in range(1, len(parameters) // 2 + 1):
-            L2_cost += np.sum(np.square(parameters[f"W{l}"]))
+        W = np.concatenate([parameters[key].reshape(-1) for key in parameters if key.startswith("W")])
+        L2_cost = np.sum(W * W)
         cost += (lambd / (2 * m)) * L2_cost
 
     return cost
