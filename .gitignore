@@ -1,3 +1,5 @@
 Assignment1/data/MNIST
 Assignment2/data/lfw2
 Assignment2/best_siamese_model_val_acc.pth
+Assignment3/simple_lyrics_model.pth
+Assignment3/advanced_lyrics_model.pth
