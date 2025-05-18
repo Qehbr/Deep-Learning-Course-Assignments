@@ -1,0 +1,1147 @@
+==== SIMPLE MODEL RESULTS ====
+
+Song: the_bangles - eternal_flame
+Starting with '<START>' (BLEU: 0.0018):
+you you i what let i'm
+and
+you about
+and
+i
+tomorrow
+yeah is
+when
+what just it
+i
+is
+is
+yeah on
+to
+that faith
+i've
+you
+
+Starting with 'love' (BLEU: 0.0074):
+love up
+to that that
+that
+that you what tell
+the
+i
+in
+in
+don't baby
+i
+it's
+so
+baby
+yeah
+i
+i
+and to
+will
+yeah
+then
+if
+i
+in
+so
+from but in
+that
+is it
+baby
+oh i baby
+to
+to
+i
+for
+and i to
+don't
+yeah i
+there
+to you
+how
+that
+and
+is
+the
+feel
+i
+that
+you i baby
+you
+that that
+you i
+bout
+baby
+i
+were and to
+i
+
+Starting with 'hate' (BLEU: 0.0125):
+hate tonight me
+if
+i you to
+what so
+i what
+yeah i
+yeah
+baby
+how i
+i
+i'm
+i i'm
+i i
+say yeah let
+we with
+i
+what
+with and
+baby
+to
+i've
+and
+i
+i
+i it
+i
+i it
+to breaks
+i'm
+how
+to
+what get
+so
+oh
+baby
+you
+i
+don't
+that
+girl
+don't
+that
+yeah
+i
+that
+that she
+oh you and
+with
+and
+leave i
+we
+i i
+to
+is
+i is oh
+i
+
+Starting with 'close' (BLEU: 0.0077):
+close each tonight
+is
+just i
+about to
+i
+they and
+that
+yeah
+more
+i
+since we
+it's
+yeah oh
+baby you
+in
+so do
+i
+i you and
+that's more
+i
+yeah
+you crawl
+before
+i
+i of
+baby
+and i'll
+i
+you
+that to
+yeah
+it's
+i that you
+goodbye
+you
+baby
+you
+that
+but
+don't that
+you that
+i to make
+in
+that
+let to
+to
+don't
+that
+yeah
+so baby will don't
+we
+that
+i of
+to
+that
+i if i
+that
+if
+get
+
+Song: billy_joel - honesty
+Starting with '<START>' (BLEU: 0.0042):
+it's oh my baby that you the the you a
+i i oh yeah you
+good
+i that
+how
+i i i that
+to
+who
+you that for i in
+yeah i
+how when until stand
+that
+to
+what
+baby i'm
+that
+and
+baby
+i
+when
+there and tonight
+alone
+yeah
+no yeah
+i
+i
+tell
+yeah
+to
+oh
+and
+i i'm
+with
+i
+yes who baby
+feel
+you
+i i'm
+it's
+you
+that a
+baby
+no
+you what
+believe the
+and
+is
+through
+i in what
+
+Starting with 'love' (BLEU: 0.0000):
+love
+that
+don't
+
+Starting with 'hate' (BLEU: 0.0000):
+hate to
+that
+it's
+it's
+love
+give
+what
+they
+don't
+and
+you're
+what i'm baby
+what
+you
+all where
+baby
+so
+
+Starting with 'if' (BLEU: 0.0064):
+if you even be oh cause no no i'm and my a and a
+faces the
+the no
+my your the and not only not to over your on on in on to
+and
+as
+to
+i
+of
+baby
+that
+do
+is to
+no
+what
+don't with
+just
+do
+i
+a
+yeah
+you've to i'm
+crazy
+you
+i the baby
+that i
+you
+that
+you
+i
+i and
+i
+is
+closer
+of
+you
+then when i do
+i
+yeah
+it
+there's
+yeah
+we in
+that
+yeah
+i'm
+baby
+i'm
+yeah
+you
+try
+
+Song: cardigans - lovefool
+Starting with '<START>' (BLEU: 0.0002):
+the is stuff
+i baby
+my it
+you i
+that to
+you're more
+i'll
+it's i what
+baby
+goodbye yeah oh cry
+oh
+they
+cause
+baby yeah
+yeah
+yeah
+that
+i
+i
+i i'm
+would yeah
+come
+i
+to
+i
+i
+to
+i
+they
+in
+i
+and i
+
+Starting with 'love' (BLEU: 0.0002):
+love you had you if i to to the
+a the
+for young you
+i
+you
+you i what i
+i
+you i
+that
+that
+why
+baby i i
+on
+you i
+i
+to
+all
+i
+help
+i
+to as
+yeah
+in
+and who
+is
+we
+i
+and
+in
+
+Starting with 'hate' (BLEU: 0.0000):
+hate
+sure
+i
+you'd here i can what
+that
+i
+what your that baby
+i'm
+yeah
+and it
+i
+you
+i
+baby
+i yeah
+i
+baby
+baby
+time
+again
+yeah
+to
+i'd i've
+baby
+
+Starting with 'dear' (BLEU: 0.0016):
+dear the four up down
+but
+the
+i
+i'm they i will
+i them
+bout
+about
+every
+is
+yeah
+you
+to the and on
+i yeah i
+you're tonight
+to
+is
+that
+for
+you
+i'm
+baby
+you'd
+so
+i
+to should with
+i
+that i
+you
+goodbye
+that
+yeah to
+to
+tonight
+and
+don't
+me
+oh
+i'll
+in
+to
+at
+you i but
+the stop
+to to for again from
+at
+i
+cover
+you
+now
+
+Song: aqua - barbie_girl
+Starting with '<START>' (BLEU: 0.0000):
+listen to baby
+sha why
+you myself this
+i
+in baby to
+and
+let
+tonight
+you
+go
+you
+it
+show
+i
+i
+to over
+
+Starting with 'love' (BLEU: 0.0000):
+love
+and
+i
+faith
+i you what
+i
+the
+i'm
+it
+baby that
+yeah
+
+Starting with 'hate' (BLEU: 0.0001):
+hate them
+baby
+he
+don't to you
+i a the you
+you
+that
+it
+of
+i'm i
+baby
+yeah
+you
+you the of
+don't
+i that of
+to
+baby
+will call
+i
+i and
+yeah
+we
+i
+you
+baby
+yeah i'm
+yeah
+like
+yeah
+the
+baby
+to
+i
+yeah
+i
+come
+oh
+to
+yeah
+i
+and
+you
+that
+i
+i
+but and
+yeah
+i is to
+alone
+we
+
+Starting with 'hiya' (BLEU: 0.0001):
+hiya summer and to that
+the
+i
+long then
+stand in
+i to i
+yeah that
+baby
+i the to about is
+that
+like
+you
+to
+i
+i yeah
+but
+i
+i
+yeah
+you
+this
+yeah i i but
+that
+like
+i
+in to
+yeah
+and
+of
+i'm i
+he's
+goes
+to
+yeah
+yeah you just i when
+is
+yeah
+i
+i
+that's i
+and
+yeah
+
+Song: blink_182 - all_the_small_things
+Starting with '<START>' (BLEU: 0.0005):
+where waterloo he's we're no the
+no red that a
+a oh love the the you and that the no going not of on on away lately
+of baby
+you yeah
+will
+and
+baby
+yeah
+no
+yeah
+yeah
+to
+it's
+baby
+
+Starting with 'love' (BLEU: 0):
+love who's
+that
+
+Starting with 'hate' (BLEU: 0.0039):
+hate to
+the my the
+that you the what the that the confused lost
+to
+and
+and
+i
+so
+it's i
+the
+that
+the to
+i
+yeah
+you
+and nothin i
+you
+a
+the the on the
+the got
+just little
+that about
+i
+night
+i
+to
+oh
+that
+you and why
+never
+that that
+you
+till
+or
+baby
+let
+you
+to
+that
+yeah
+come
+i but
+oh
+for is
+
+Starting with 'all' (BLEU: 0.0019):
+all i why
+a i when oh woah to your a
+and do a my
+the you the a dunk witchy man in clothes
+i'm
+down
+oh
+to
+i
+you
+i've
+i that
+i oh
+you
+again i
+you
+sha don't
+about
+to
+baby
+i
+baby i
+i
+i
+don't
+and
+and
+baby
+don't
+i
+you
+baby right
+if yeah
+the
+and
+yeah
+i he
+what
+i
+i baby
+to
+
+
+
+==== ADVANCED MODEL RESULTS ====
+
+Song: the_bangles - eternal_flame
+Starting with '<START>' (BLEU: 0.0202):
+hi out me all
+don't save me come down
+put it on i'll try again try
+get it out i'll get it
+we got you got it
+if it is to be to
+what are you baby
+what baby i have to come enough
+ooh khan now what can i come
+oh i don't want to show you there right more
+cause you need me off in the tank for you instead
+she told me if we would sail
+the papers got his different friend
+for the copa lane light in the sea
+his boardwalk
+another is die
+i'm an race and made
+i was in the game that fine may see it
+and you've never got
+i will even give it out and call it
+and it seems when i don't want to dance
+just knows all you didn't
+keep up long while you'll go ain't sick
+your boy bag to make why you could change
+oh girls feels a little bit
+but you would what it ever have
+what you ever may be a with that you may be there
+have something could be a good dance
+but the thing that that's a one girl
+what is all how the love is in
+
+Starting with 'love' (BLEU: 0.0091):
+love out on my eyes
+oh where it is is my life
+so would you get a flower to fall
+i still have your change love
+hey oh yeah oh
+just trying to be your face
+you take me alone tonight
+she doesn't wanna get so young
+cause i hope you go away yeah
+and i would to last first
+so i say like you baby
+i'm only a dream without my girl
+take me for your love
+the love in a dance
+oh you'll be with your arms
+but i need to be forever
+no matter that i see for you
+and maybe i feel so tired will all
+a kind in earth i was friends to look
+repeat yea
+got you know it dear to tell me for anymore
+if i'm never going but you know and i ever know
+you keep my mind i would say
+that's this as you have there
+to be so an little i'm have love
+i just know what i've got a life
+and i was just the man
+one is giving you you're a man
+it's gone you're a time
+but i had you much from my hand
+you ever say if the love is a
+
+Starting with 'hate' (BLEU: 0.0118):
+hate there's a rainy boy
+who our lights and that i understand
+still so the place to love
+music for the fire
+oh oh oh
+going in the side
+oh oh one stuff i got it
+save it easy turn it all i'm gonna turn it on
+i like my mind turn of my heart
+i saw my heart
+this uptown day
+never got my love baby baby baby i am
+i can't love you baby
+i don't say it's strong
+i just wanna be wrong
+that i know i really need to make you cry i want you
+let me tell you goodbye like you do
+rock me again
+come on turn it on come on
+wrap it on come on
+bring it on come on now
+wrap it on on it on it
+the nights of gonna all this boy look on me
+oh oh no
+party is blue and make me easy
+you say your believe baby
+you let me make me know
+there's the only one
+and the one that cause i want to give it
+you're the beginning that you mean
+i feel someone
+i don't mean to be apart
+i'd always love you anyway
+i think
+
+Starting with 'close' (BLEU: 0.0265):
+close it's only your eyes
+just nothin again
+baby give me a money
+that's a one tonight
+let me tell you what i love you
+i need you all like me
+cause you believe me so
+i don't want to always grow with you could you
+i love you no i to love without you
+i never love you i love you anyway
+i love you i love you
+i have love you baby
+i love you i love you
+more than you
+tell me why
+the way is in your view
+that why can i be without
+i'm going to see
+yeah yeah yeah oh
+cause but i was got now i am
+the and the best thing is a bad who
+cause i started the contradiction
+i say yeah
+and if we do it a same me real
+i wake up my life and i can't win goodbye
+if i die to stay inside each with me
+i don't can be my sweet heart i'll make you crazy
+you wanna get this clown crazy
+do you really want to be with
+you want to hear me all an breeze
+it always want to dance again
+you're bop i feel somebody
+it's
+
+Song: billy_joel - honesty
+Starting with '<START>' (BLEU: 0.0000):
+last night and that's heaven
+chorus
+
+Starting with 'love' (BLEU: 0.0100):
+love do the time is mine
+for the world is the night
+he's a woman who i could get
+to steal
+and he was a toast of town
+up of the levee together
+here is a country to last of faith
+looking on and the way you ever gotta make me free
+the way is very out and i am say
+i will change you tonight
+i'm holding up now girl
+it's goin enough to find it
+if it alright stand i'll be around
+you keep my eyes
+they was walking at night
+keep on when i sold the car to her close
+all my nights on your feet
+it's the queen of red
+i have a pain
+and you're talking of her heart
+gonna you know
+and now you made me good or stay
+do you hear me once but i just believe
+guess you still take me
+i'm gonna see you
+
+Starting with 'hate' (BLEU: 0.0000):
+hate you needed my world
+and lay into my head and do you care
+and i call me not you do you don't read you but you think you turn
+
+Starting with 'if' (BLEU: 0.0238):
+if me are my friend way
+have all true that can't you party
+now this i seem to share about the dream is fine
+part that life about my way in my heart
+a touch is mine
+it's no games i was found
+i fought the name of the night
+in the darkness of the sea and the sea
+he's a never more and baby i can be
+to be a light and i know
+when that it's finally a just die
+and i really want to fall
+i'm not the day that i can hear me
+always slip or taking your love
+the joke only only very much left
+i remember love to cry
+she'll find you alright
+if always forever
+i am the ones of better
+if you make me want me
+i never love a words in vain
+but i didn't show you i will show to be
+before you got to dance from the words that i feel
+time that all the one friend
+love to play at through like me
+if i tell you goodbye again
+all it in my side
+that's nothing for you
+never have hard to say
+baby baby i've done goodbye
+i say goodbye together
+
+Song: cardigans - lovefool
+Starting with '<START>' (BLEU: 0.0170):
+everybody doesn't have trying
+no takes you were wild
+you can see it true
+and just there that i
+what i'd love you so
+don't come with you know i could do you
+photograph things baby so
+it's so much this time
+let me love you said what i do
+yes they feel lost in love
+do my baby help baby
+let me do what i want to make you know
+i'm a son and could seem that they always cry
+but no is a end of the door
+and dreams are the fast that do it are that we can't be
+let me tell you it's going in every arms
+cause i feel that i believe
+i'm here for me
+it's a woman
+i'm in my eyes
+a times of a world
+i'm all taking two
+her man that paradise a shade
+he flies to the girl when you do
+it doesn't do that you feel
+and if you ever love me say
+i can ever say to you
+
+Starting with 'love' (BLEU: 0.0104):
+love is the door in my destiny
+bye living to be fallen
+man to these they'll turn me all to
+was of a dark on feelin
+and i were an different dance
+a pain to it strong to believe
+to hear your heart decisions
+nothing still fall
+just nothing and i wait
+father be hard for me
+you needed me
+there's love you and you
+and in a place of earth
+i've got the way that we used to be
+of the air that it just held me
+but you're all has like you she need
+come enough baby come on i'm gonna fall ha on your day and a teacher will make me the wild love
+cause you were the day that i will see
+when your time i did it's a thing
+i'm tragedy from a new way that i just knew the
+i've seen the way to never know
+i know she's with a time i found for your heart
+then i sit with my open you're much a dream
+i never feel you be loved to do this
+i'd love too better
+i love you i'm gonna love you
+i feel to love you
+i think i've like the woman
+i was your
+
+Starting with 'hate' (BLEU: 0.0000):
+hate
+i can see my world through in my eyes
+i know how i can feel the name to that said
+i think deep up that there's the lula that i said
+that keeps my side
+
+Starting with 'dear' (BLEU: 0.0031):
+dear do i don't turn to you
+then only ever got me than you
+there something have a same in us
+you would have me but the breeze
+he seen the music and night
+down on the pose
+then the distance was how
+look
+they can never give out the people
+just walk on out in the night
+even let me believe when we've smile
+while i talk to me and be inside at us
+but where i spend there and long wasn't that we go
+when i really gotta face of you
+oh together oh
+we wanna never live goodbye
+goodbye this i can live
+
+Song: aqua - barbie_girl
+Starting with '<START>' (BLEU: 0.0002):
+when i'm in his face
+i'll be around of my eyes
+it's the say that you've been born
+suddenly here on his destiny
+and he couldn't stand alone
+and my boy the day will eat
+he gave them at with here
+and and pretend in myself to jesus
+no and run and they built to couldn't fly of he stay
+no one not looking on up in circles of something hot
+i have too waiting in my eyes
+no dreams that close in the fire
+
+Starting with 'love' (BLEU: 0.0000):
+love is not love to me it's true
+and you're much would you do to come to me oh ooh
+don't let me be the way to be be crazy
+
+Starting with 'hate' (BLEU: 0.0000):
+hate no smile
+be looking i matter the thousand place
+still everybody late
+
+Starting with 'hiya' (BLEU: 0.0079):
+hiya of a best
+i love you
+i could be your eyes
+that only the way as you feel
+this are a woman you say
+in a one talkin that's a top of my heart
+i know i need you so
+i'll try to dance at my face
+i need you better baby girl
+i want you this stuff
+and i want it to know
+you really want permission what we know
+cause i need to make my fall
+every world to dreams this day
+i know that i'll give it
+and now i'm away
+just talkin again
+could i'm good near
+because it to make me mine
+think about yourself and tell me why
+cause do they could be easy know
+it's got to be so else
+but all it knows you're so falling
+but if i don't knew if i care say
+i can quit too but to die
+with your man come and me
+should be more alone
+but you've knows me baby oh baby
+i'm not the one i'm on my own
+i won't need your hurt to you would
+would give you your world you be your go call
+good sweet than a time
+she's got a way
+
+Song: blink_182 - all_the_small_things
+Starting with '<START>' (BLEU: 0.0000):
+when that's ya yes i feel you you the sleep
+but i'm asking i wanna quit your clown
+
+Starting with 'love' (BLEU: 0.0082):
+love about my love is free
+my heart is mine yeah yeah yeah
+i gotta see when we wish
+to be afraid
+who could be
+every name of me
+he ever had so true
+cause though someone is a long time
+i'll be this word
+as you belong
+you're in love
+baby i want to hear you cry
+tell me why i need you
+let me lick you rock you
+want to try when you're the little cruel cruel summer baby
+my summer summer night
+a it's a woman i knew
+to be a good man
+you will be your love
+who be as me
+
+Starting with 'hate' (BLEU: 0.0076):
+hate now sherry
+here tonight yeah yeah oh yeah
+love's the place that it's got
+when it's not your photograph girl oh
+it's not like me
+all my best
+ooh yeah oh oh
+come away
+ooh baby and it's all that you
+let yourself have the heartache
+rock me tomorrow
+it's a good day
+yeah yeah
+i want you a heartache again
+life around
+oh it is a heartache
+do it is to do to me
+gonna do
+what can do
+baby don't tell you
+what can i do
+when can i say
+don't you say but when you're like a light
+i even feel my name
+with all in my life
+eyes of your head
+my dreams will be
+hello of your life
+she's gonna get you apart
+the feeling's times and then if i had how i'd ever love there
+cause it's already never been there
+and i'm never glad for this time
+if i see my mind back
+you am the strong boy
+too is the words is mine
+i just knew you better
+but i was a day
+there's a nice it's a just day
+you were the reason in a way
+
+Starting with 'all' (BLEU: 0.0000):
+all you was a good just a a bit that you are
+it just just a little bit
+now you do don't be a better
+
+
+
+==== AVERAGE SCORES ====
+Simple Model - Average BLEU: 0.0024
+Advanced Model - Average BLEU: 0.0078
